@@ -1,7 +1,6 @@
-
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://github.com/BLACKKING999/yii/blob/main/Captura%20de%20pantalla%202025-04-22%20194812.png?raw=true" height="1000px">
+        <img src="https://github.com/BLACKKING999/yii/blob/main/Captura%20de%20pantalla%202025-04-22%20194812.png?raw=true">
     </a>
     <h1 align="center">Biblioteca Virtual</h1>
     <br>
