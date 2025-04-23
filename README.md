@@ -1,11 +1,12 @@
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://github.com/BLACKKING999/yii/blob/main/Captura%20de%20pantalla%202025-04-22%20194812.png" height="100px">
+        <img src="https://github.com/BLACKKING999/yii/blob/main/Captura%20de%20pantalla%202025-04-22%20194812.png?raw=true" height="200px">
     </a>
-    <h1 align="center">Plantilla Básica de Proyecto Yii 2</h1>
+    <h1 align="center">Biblioteca Virtual</h1>
     <br>
 </p>
+
 
 Sistema de Gestión de Biblioteca
 ================================
