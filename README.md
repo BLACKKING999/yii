@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
+        <img src="https://github.com/BLACKKING999/yii/blob/main/Captura%20de%20pantalla%202025-04-22%20194812.png" height="100px">
     </a>
     <h1 align="center">Plantilla Básica de Proyecto Yii 2</h1>
     <br>
